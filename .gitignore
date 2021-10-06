@@ -4,6 +4,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+src/main/java/com/tanchengjin/tools/model
+src/main/resources/mappers
 
 ### STS ###
 .apt_generated
